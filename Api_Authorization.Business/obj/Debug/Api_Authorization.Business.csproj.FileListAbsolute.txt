@@ -1,0 +1,70 @@
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.pdb
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.dll
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.pdb
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll.config
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.dll
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\EntityFramework.dll
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.dll
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.pdb
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\EntityFramework.xml
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.xml
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.csprojResolveAssemblyReference.cache
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.dll
+E:\TrialProjects\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.pdb
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll.config
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.pdb
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.dll
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.dll
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\EntityFramework.dll
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.dll
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.pdb
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.pdb
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\EntityFramework.xml
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.xml
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.csprojResolveAssemblyReference.cache
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.dll
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll.config
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\EntityFramework.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\EntityFramework.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.csprojResolveAssemblyReference.cache
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll.config
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\EntityFramework.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\EntityFramework.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.csprojResolveAssemblyReference.cache
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll.config
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\EntityFramework.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\Api_Authorization.Models.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\Api_Authorization.Utility.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\EntityFramework.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.csprojResolveAssemblyReference.cache
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Business\obj\Debug\Api_Authorization.Business.pdb

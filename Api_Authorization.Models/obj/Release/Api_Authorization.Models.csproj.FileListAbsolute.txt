@@ -1,0 +1,10 @@
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\bin\Release\Api_Authorization.Models.dll.config
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\bin\Release\Api_Authorization.Models.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\bin\Release\Api_Authorization.Models.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\bin\Release\EntityFramework.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\bin\Release\EntityFramework.SqlServer.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\bin\Release\EntityFramework.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\bin\Release\EntityFramework.SqlServer.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\obj\Release\Api_Authorization.Models.csprojResolveAssemblyReference.cache
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\obj\Release\Api_Authorization.Models.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Models\obj\Release\Api_Authorization.Models.pdb

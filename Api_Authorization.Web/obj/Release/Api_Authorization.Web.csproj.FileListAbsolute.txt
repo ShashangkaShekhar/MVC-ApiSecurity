@@ -1,0 +1,102 @@
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\csc.exe
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\vbc.exe
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\VBCSCompiler.exe
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Api_Authorization.Web.dll.config
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Api_Authorization.Web.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Api_Authorization.Web.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Api_Authorization.Models.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Api_Authorization.Utility.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\EntityFramework.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\EntityFramework.SqlServer.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Newtonsoft.Json.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Net.Http.Formatting.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Helpers.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Http.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Http.WebHost.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Mvc.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Razor.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Webpages.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Webpages.Razor.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Api_Authorization.Models.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Api_Authorization.Utility.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\EntityFramework.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\EntityFramework.SqlServer.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Razor.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Webpages.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Webpages.Razor.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Helpers.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Mvc.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\Newtonsoft.Json.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Net.Http.Formatting.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Http.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\bin\System.Web.Http.WebHost.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\obj\Release\Api_Authorization.Web.csprojResolveAssemblyReference.cache
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\obj\Release\Api_Authorization.Web.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Web\obj\Release\Api_Authorization.Web.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\csc.exe
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\vbc.exe
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\VBCSCompiler.exe
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Api_Authorization.Web.dll.config
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Api_Authorization.Web.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Api_Authorization.Web.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Api_Authorization.Models.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Api_Authorization.Utility.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\EntityFramework.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\EntityFramework.SqlServer.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Newtonsoft.Json.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Net.Http.Formatting.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Helpers.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Http.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Http.WebHost.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Mvc.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Razor.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Webpages.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Webpages.Razor.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Api_Authorization.Models.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Api_Authorization.Utility.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\EntityFramework.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\EntityFramework.SqlServer.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Razor.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Webpages.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Webpages.Razor.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Helpers.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Mvc.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\Newtonsoft.Json.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Net.Http.Formatting.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Http.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\bin\System.Web.Http.WebHost.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\obj\Release\Api_Authorization.Web.csprojResolveAssemblyReference.cache
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\obj\Release\Api_Authorization.Web.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Web\obj\Release\Api_Authorization.Web.pdb

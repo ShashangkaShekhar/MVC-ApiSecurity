@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ApiSecurityModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ApiSecurityEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="ApiSecurityModel.Customer" />
+    <EntitySet Name="UserAuthentications" EntityType="ApiSecurityModel.UserAuthentication" />
+    <EntitySet Name="UserRoles" EntityType="ApiSecurityModel.UserRole" />
+    <AssociationSet Name="FK_UserAuthentication_UserRole" Association="ApiSecurityModel.FK_UserAuthentication_UserRole">
+      <End Role="UserRole" EntitySet="UserRoles" />
+      <End Role="UserAuthentication" EntitySet="UserAuthentications" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Tel" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="UserAuthentication">
+    <Key>
+      <PropertyRef Name="AuthenticationID" />
+    </Key>
+    <Property Name="AuthenticationID" Type="Int32" Nullable="false" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <Property Name="RoleID" Type="Int32" />
+    <Property Name="LoginID" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LoginEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LoginPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ConfirmPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="StatusID" Type="Int32" />
+    <NavigationProperty Name="UserRole" Relationship="ApiSecurityModel.FK_UserAuthentication_UserRole" FromRole="UserAuthentication" ToRole="UserRole" />
+  </EntityType>
+  <EntityType Name="UserRole">
+    <Key>
+      <PropertyRef Name="RoleID" />
+    </Key>
+    <Property Name="RoleID" Type="Int32" Nullable="false" />
+    <Property Name="RoleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CanCreate" Type="Boolean" />
+    <Property Name="CanUpdate" Type="Boolean" />
+    <Property Name="CanDelete" Type="Boolean" />
+    <Property Name="CanRead" Type="Boolean" />
+    <NavigationProperty Name="UserAuthentications" Relationship="ApiSecurityModel.FK_UserAuthentication_UserRole" FromRole="UserRole" ToRole="UserAuthentication" />
+  </EntityType>
+  <Association Name="FK_UserAuthentication_UserRole">
+    <End Type="ApiSecurityModel.UserRole" Role="UserRole" Multiplicity="0..1" />
+    <End Type="ApiSecurityModel.UserAuthentication" Role="UserAuthentication" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserRole">
+        <PropertyRef Name="RoleID" />
+      </Principal>
+      <Dependent Role="UserAuthentication">
+        <PropertyRef Name="RoleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

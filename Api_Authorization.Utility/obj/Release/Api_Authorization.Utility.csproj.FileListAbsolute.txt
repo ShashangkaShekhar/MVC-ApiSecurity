@@ -1,0 +1,5 @@
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Utility\bin\Release\Api_Authorization.Utility.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Utility\bin\Release\Api_Authorization.Utility.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Utility\obj\Release\Api_Authorization.Utility.csprojResolveAssemblyReference.cache
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Utility\obj\Release\Api_Authorization.Utility.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Utility\obj\Release\Api_Authorization.Utility.pdb

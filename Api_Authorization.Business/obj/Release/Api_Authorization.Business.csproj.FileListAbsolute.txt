@@ -1,0 +1,28 @@
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\Api_Authorization.Business.dll.config
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\Api_Authorization.Models.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\Api_Authorization.Utility.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\EntityFramework.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\EntityFramework.SqlServer.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\Api_Authorization.Models.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\Api_Authorization.Utility.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\EntityFramework.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\bin\Release\EntityFramework.SqlServer.xml
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\obj\Release\Api_Authorization.Business.csprojResolveAssemblyReference.cache
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\obj\Release\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Business\obj\Release\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\Api_Authorization.Business.dll.config
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\Api_Authorization.Business.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\Api_Authorization.Models.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\Api_Authorization.Utility.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\EntityFramework.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\EntityFramework.SqlServer.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\Api_Authorization.Models.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\Api_Authorization.Utility.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\EntityFramework.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\bin\Release\EntityFramework.SqlServer.xml
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\obj\Release\Api_Authorization.Business.csprojResolveAssemblyReference.cache
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\obj\Release\Api_Authorization.Business.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Business\obj\Release\Api_Authorization.Business.pdb

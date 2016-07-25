@@ -1,0 +1,20 @@
+E:\TrialProjects\Api_Authorization\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.dll
+E:\TrialProjects\Api_Authorization\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.pdb
+E:\TrialProjects\Api_Authorization\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.dll
+E:\TrialProjects\Api_Authorization\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.pdb
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.dll
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.pdb
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.dll
+E:\TrialProjects\ApiSecurity\Api_Authorization\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.dll
+D:\Article\Authorization Web API 2\ApiSecurity\Api_Authorization - Copy\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Data\bin\Debug\Api_Authorization.Data.pdb
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.dll
+D:\Article\Authorization Web API 2\ApiSecurity\MVC-ApiSecurity - Orig\Api_Authorization.Data\obj\Debug\Api_Authorization.Data.pdb

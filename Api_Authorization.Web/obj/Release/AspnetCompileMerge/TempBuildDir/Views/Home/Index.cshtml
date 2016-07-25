@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Api Authorization";
+}
+
+<div class="row" ng-controller="userCtrl">
+    <div class="col-sm-12" ng-controller="tokenCtrl">
+        <h2>
+            {{message}}. <span class="pull-right" ng-if="loggedflag">
+                Welcome <b>{{loggeduser}}</b>,
+                <a href="" ng-click="accountManager.logout()">Logout</a>!
+            </span>
+        </h2>
+
+        <span ng-if="!loggedflag">
+            To view all customer please
+            <a href="/Account">Login</a>!
+        </span>
+
+        <div ng-controller="customerCtrl">
+            <p ng-if="loggedflag">
+                Token based authorization for api call! <a href="" ng-click="customerManager.getcustomer()">Get Customer </a>
+
+            </p>
+            <p>{{result}}</p>
+            <hr />
+            <div ng-hide="customers.length" class="warning">No records found!!</div>
+            <div ng-show="customers.length">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Customer</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="cust in customers">
+                            <td>{{cust.CustomerName}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@section AngularScript{
+    @*Controller*@
+    <script src="~/ScriptsNg/Controller/UserController.js"></script>
+    <script src="~/ScriptsNg/Controller/TokenController.js"></script>
+    <script src="~/ScriptsNg/Controller/CustomerController.js"></script>
+
+    @*Services*@
+    <script src="~/ScriptsNg/Services/CrudService.js"></script>
+}
